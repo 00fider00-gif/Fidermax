@@ -1,9 +1,9 @@
 {
   "name": "Fidermax",
   "short_name": "Fidermax",
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "description": "Mi aplicación Fidermax"
+  "background_color": "#000519",
+  "theme_color": "#000519",
+  "icons": []
 }
