@@ -4,8 +4,8 @@
   "display": "standalone",
   "name": "Fidermax",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Fidermax/",
   "short_name": "Fidermax",
-  "start_url": "/",
+  "start_url": "/Fidermax/",
   "theme_color": "#ffffff"
 }
