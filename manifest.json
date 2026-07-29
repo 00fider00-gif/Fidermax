@@ -1,11 +1,9 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Fidermax",
-  "orientation": "any",
-  "scope": "/Fidermax/",
   "short_name": "Fidermax",
-  "start_url": "/Fidermax/",
-  "theme_color": "#ffffff"
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Mi aplicación Fidermax"
 }
