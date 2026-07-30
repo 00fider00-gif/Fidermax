@@ -1,9 +1,0 @@
-{
-  "name": "Fidermax",
-  "short_name": "Fidermax",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#000519",
-  "theme_color": "#000519",
-  "icons": []
-}
